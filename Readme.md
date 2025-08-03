@@ -85,6 +85,7 @@ python ImgPaste.py
 - 所有操作均在本地完成，不会上传图片或识别结果到云端，保护隐私安全
 - 日志信息会显示详细操作过程，便于排查问题
 - master分支official_models.zip为模型文件，解压到`C:\Users\{User}\.paddlex\official_models`
+- 修改本地[OCR.yml](C:\Users\{User}\AppData\Local\Programs\Python\Python311\Lib\site-packages\paddlex\configs\pipelines)中的模型路径
 
 
 ## 许可证
